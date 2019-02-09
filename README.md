@@ -1,5 +1,5 @@
 # This is a Eva Project.
 
-Members can register your skills and You can share your skills by your URL.
+Members can register own skills and Members can share own skills by own URL.
 
 
